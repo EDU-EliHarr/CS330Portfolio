@@ -1,0 +1,11 @@
+﻿  SceneManager.cpp
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(547,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(548,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(552,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(553,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(554,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(555,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(578,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(592,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  7-1_FinalProjectMilestones.vcxproj -> C:\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
